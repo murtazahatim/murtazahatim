@@ -41,7 +41,7 @@ I have recently started exploring open-source development and completed the Hack
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 67 Contributions in the Year 2021
+> 🏆 65 Contributions in the Year 2021
  > 
 > 📦 226.6 kB Used in Github's Storage 
  > 
@@ -51,6 +51,29 @@ I have recently started exploring open-source development and completed the Hack
  > 
 > 🔑 1 Private Repository 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.61% 
+🌆 Daytime    22 commits     ██████░░░░░░░░░░░░░░░░░░░   24.72% 
+🌃 Evening    31 commits     ████████░░░░░░░░░░░░░░░░░   34.83% 
+🌙 Night      23 commits     ██████░░░░░░░░░░░░░░░░░░░   25.84%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       9 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.11% 
+Tuesday      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.25% 
+Wednesday    8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.99% 
+Thursday     10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.24% 
+Friday       7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.87% 
+Saturday     17 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.1% 
+Sunday       36 commits     ██████████░░░░░░░░░░░░░░░   40.45%
+
+```
+
+
 📊 **This Week I Spent My Time On** 
 
 ```text
