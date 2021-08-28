@@ -37,11 +37,9 @@ I have recently started exploring open-source development and completed the Hack
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
-
 **🐱 My Github Data** 
 
-> 🏆 65 Contributions in the Year 2021
+> 🏆 67 Contributions in the Year 2021
  > 
 > 📦 226.6 kB Used in Github's Storage 
  > 
@@ -51,29 +49,6 @@ I have recently started exploring open-source development and completed the Hack
  > 
 > 🔑 1 Private Repository 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.29% 
-🌆 Daytime    22 commits     ██████░░░░░░░░░░░░░░░░░░░   25.88% 
-🌃 Evening    31 commits     █████████░░░░░░░░░░░░░░░░   36.47% 
-🌙 Night      19 commits     █████░░░░░░░░░░░░░░░░░░░░   22.35%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       9 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.59% 
-Tuesday      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.35% 
-Wednesday    8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.41% 
-Thursday     10 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-Friday       7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.24% 
-Saturday     17 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Sunday       32 commits     █████████░░░░░░░░░░░░░░░░   37.65%
-
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -86,9 +61,6 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
 No Activity Tracked This Week
 
 ```
@@ -104,10 +76,6 @@ C                        1 repo              ██░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/murtazahatim/murtazahatim/main/charts/bar_graph.png) 
 
 
  Last Updated on 28/08/2021
