@@ -37,6 +37,9 @@ I have recently started exploring open-source development and completed the Hack
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 If you like my profile, have used my code or just wanna be friends, maybe consider buying me a coffee 🥺👉👈
