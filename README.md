@@ -36,7 +36,8 @@ I have recently started exploring open-source development and completed the Hack
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 📊 **this week i spent my time on:**
-<img src="https://github.com/murtazahatim/murtazahatim/blob/master/images/codeStats.svg" alt="Alternative Text"/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 If you like my profile, have used my code or just wanna be friends, maybe consider buying me a coffee 🥺👉👈
 
