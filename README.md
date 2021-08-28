@@ -15,10 +15,11 @@ Hi, I'm [Murtaza Rangwala](https://www.linkedin.com/in/murtaza-rangwala-88906416
 
 I have recently started exploring open-source development and completed the Hacktober challenge for the first time in 2020. The open-source community has been great and I'm enjoying my time here.
 
-  <img align="right" alt="GIF" src="https://media0.giphy.com/media/PiQejEf31116URju4V/giphy.gif?cid=74de58baa3a07c4066e69194591dc5fd24fb18ac44d91da2&rid=giphy.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://media0.giphy.com/media/PiQejEf31116URju4V/giphy.gif?cid=74de58baa3a07c4066e69194591dc5fd24fb18ac44d91da2&rid=giphy.gif" width="450" height="370" />
   
 - 💼 Any Freelance Work? Reach out to me at: [Email](mailto:dev@murtaza.info)
 - 💬 Feel free to contact me via [Linkedin](https://www.linkedin.com/in/murtaza-rangwala-889064160/). Always happy to help!
+
 
 **languages and tools:**  
 
@@ -34,6 +35,7 @@ I have recently started exploring open-source development and completed the Hack
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
 
 
 <!--START_SECTION:waka-->
