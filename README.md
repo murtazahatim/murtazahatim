@@ -37,6 +37,80 @@ I have recently started exploring open-source development and completed the Hack
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 65 Contributions in the Year 2021
+ > 
+> 📦 226.6 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 12 Public Repositories 
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.29% 
+🌆 Daytime    22 commits     ██████░░░░░░░░░░░░░░░░░░░   25.88% 
+🌃 Evening    31 commits     █████████░░░░░░░░░░░░░░░░   36.47% 
+🌙 Night      19 commits     █████░░░░░░░░░░░░░░░░░░░░   22.35%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       9 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.59% 
+Tuesday      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.35% 
+Wednesday    8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.41% 
+Thursday     10 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+Friday       7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.24% 
+Saturday     17 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Sunday       32 commits     █████████░░░░░░░░░░░░░░░░   37.65%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     3 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+Python                   2 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
+TypeScript               2 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
+Go                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/murtazahatim/murtazahatim/main/charts/bar_graph.png) 
+
+
+ Last Updated on 28/08/2021
 <!--END_SECTION:waka-->
 
 If you like my profile, have used my code or just wanna be friends, maybe consider buying me a coffee 🥺👉👈
