@@ -43,7 +43,7 @@ I have recently started exploring open-source development and completed the Hack
 
 > 🏆 72 Contributions in the Year 2021
  > 
-> 📦 226.9 kB Used in Github's Storage 
+> 📦 227.4 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -103,7 +103,7 @@ C                        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2021
+ Last Updated on 01/09/2021
 <!--END_SECTION:waka-->
 
 If you like my profile, have used my code or just wanna be friends, maybe consider buying me a coffee 🥺👉👈
