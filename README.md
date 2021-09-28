@@ -41,13 +41,13 @@ I have recently started exploring open-source development and completed the Hack
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 75 Contributions in the Year 2021
+> 🏆 74 Contributions in the Year 2021
  > 
-> 📦 237.7 kB Used in GitHub's Storage 
+> 📦 238.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 13 Public Repositories 
+> 📜 12 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
  > 
@@ -103,7 +103,7 @@ C                        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2021
+ Last Updated on 28/09/2021
 <!--END_SECTION:waka-->
 
 If you like my profile, have used my code or just wanna be friends, maybe consider buying me a coffee 🥺👉👈
