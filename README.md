@@ -43,7 +43,7 @@ I have recently started exploring open-source development and completed the Hack
 
 > 🏆 74 Contributions in the Year 2021
  > 
-> 📦 238.9 kB Used in GitHub's Storage 
+> 📦 239.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -93,17 +93,17 @@ No Activity Tracked This Week
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     4 repos             █████████░░░░░░░░░░░░░░░░   36.36% 
+HTML                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
 Python                   3 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
+TypeScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
 Go                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
 C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
 
 ```
 
 
 
- Last Updated on 09/10/2021
+ Last Updated on 10/10/2021
 <!--END_SECTION:waka-->
 
 If you like my profile, have used my code or just wanna be friends, maybe consider buying me a coffee 🥺👉👈
