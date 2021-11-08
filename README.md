@@ -106,11 +106,6 @@ C                        1 repo              ██░░░░░░░░░�
  Last Updated on 19/10/2021
 <!--END_SECTION:waka-->
 
-If you like my profile, have used my code or just wanna be friends, maybe consider buying me a coffee 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/murtazahatim" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=murtazahatim&show_icons=true&theme=gotham" alt="murtazahatim" />
